@@ -10,5 +10,5 @@ In this project, I used SQL to analyze customer churn patterns from an e-commerc
 * To provide actionable insights that can help reduce churn and improve customer retention strategies.
 
 # ER diagram
-
+!
 
